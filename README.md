@@ -1,4 +1,5 @@
 # LLM assisted AutoML
+![Schema](Untitled%20Diagram.drawio.png)
 ## Preprocessing
 ## Analyzing data features (LLM)
 - choosing relevant metrics 
